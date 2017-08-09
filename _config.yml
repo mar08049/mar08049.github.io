@@ -1,0 +1,21 @@
+# Site settings
+title: Stack Life
+header-img: img/home-bg.png
+email: mar08049@gmail.com
+copyright_name: mar08049
+description: > # this means to ignore newlines until "baseurl:"
+  Living in the world of coding
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  mar08049
+learn_profile: mar08049
+email_username: mar08049@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
