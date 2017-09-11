@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I Chose Flatiron School"
-date:   2017-09-11 18:56:38 +0000
+date:   2017-09-11 14:56:38 -0400
 ---
 
 
