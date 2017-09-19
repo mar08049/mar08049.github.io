@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Humbled by Scraping and CLI"
-date:   2017-09-19 01:00:03 +0000
+date:   2017-09-18 21:00:04 -0400
 ---
 
 
