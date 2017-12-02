@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Organizing your app development"
-date:       2017-12-02 05:27:49 +0000
+date:       2017-12-02 00:27:50 -0500
 permalink:  organizing_your_app_development
 ---
 
