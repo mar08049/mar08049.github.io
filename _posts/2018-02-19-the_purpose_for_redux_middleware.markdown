@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Purpose for Redux Middleware"
-date:       2018-02-20 03:33:07 +0000
+date:       2018-02-19 22:33:08 -0500
 permalink:  the_purpose_for_redux_middleware
 ---
 
